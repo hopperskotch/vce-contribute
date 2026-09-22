@@ -13,3 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+[Nicky Boyle](https://github.com/hopperskotch) - Chronically nervous. Loves computers, cats, fictional characters and sleep.
